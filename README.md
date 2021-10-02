@@ -22,3 +22,7 @@
 
 ## 5주차
 
+<img width="300" height="600" src="./png/캡스톤 5주차 1.png"></img>
+<img width="300" height="600" src="./png/캡스톤 5주차 2.png"></img>
+
+
