@@ -26,3 +26,7 @@
 <img width="300" height="600" src="./png/캡스톤 5주차 2.png"></img>
 
 
+## 6주차
+
+<img width="300" height="600" src="./png/캡스톤 6주차1.png"></img>
+<img width="300" height="600" src="./png/캡스톤 6주차2.png"></img>
