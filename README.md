@@ -30,3 +30,9 @@
 
 <img width="300" height="600" src="./png/캡스톤 6주차1.png"></img>
 <img width="300" height="600" src="./png/캡스톤 6주차2.png"></img>
+
+## 7주차
+
+<img width="300" height="600" src="./png/캡스톤 7주차1.png"></img>
+<img width="300" height="600" src="./png/캡스톤 7주차2.png"></img>
+<img width="300" height="600" src="./png/캡스톤 7주차3.png"></img>
