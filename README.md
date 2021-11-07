@@ -40,5 +40,5 @@
 ## 10주차
 
 <img width="1020" height="600" src="./png/10주차 1.png"></img>
-<img width="300" height="600" src="./png/10주차 2.png"></img>
-<img width="300" height="600" src="./png/10주차 3.png"></img>
+<img width="1020" height="600" src="./png/10주차 2.png"></img>
+<img width="1020" height="600" src="./png/10주차 3.png"></img>
